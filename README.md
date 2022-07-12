@@ -3,7 +3,7 @@
 ![Data Analyst and Numbers Geek](https://media-exp2.licdn.com/dms/image/C4D22AQFXwYOLsGsdZw/feedshare-shrink_2048_1536/0/1653059531994?e=1660780800&v=beta&t=qNxPVx7lc1p8Fqxp3wGnsC-iacsG_EGGuyrCxecfNhQ)
 
 I am a Data Analyst, with a special interest in Financial and People Analysis.  I am open for jobs, collaborations, and projects in the data analysis space. 
-You can reach out to me on ([Twitter]((https://twitter.com/f_martinsareola)) and on ([LinkedIn](https://www.linkedin.com/in/femi-martins-areola/))
+You can reach out to me on ([Twitter](https://twitter.com/f_martinsareola)) and on ([LinkedIn](https://www.linkedin.com/in/femi-martins-areola/))
 
 Skills: 
 🌟POWER BI 
