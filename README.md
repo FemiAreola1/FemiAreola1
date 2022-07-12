@@ -1,4 +1,4 @@
-### Hi there 👋, My name is (**Femi Martins Areola**)
+### Hi there 👋, My name is **Femi Martins Areola**
 #### Data Analyst and Numbers Geek
 ![Data Analyst and Numbers Geek](https://media-exp2.licdn.com/dms/image/C4D22AQFXwYOLsGsdZw/feedshare-shrink_2048_1536/0/1653059531994?e=1660780800&v=beta&t=qNxPVx7lc1p8Fqxp3wGnsC-iacsG_EGGuyrCxecfNhQ)
 
