@@ -11,7 +11,7 @@ Skills:
 📟EXCEL 
 📳 HTML 
 
-- 🔭 I’m cBuilding my Portfolio 
+- 🔭 I’m building my Portfolio 
 - 🌱 I’m learning Financial and People Analysis 
 - 📫 How to reach me: femimartinsareola@gmail.com 
 - 😄 Pronouns: He/Him 
