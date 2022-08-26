@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there, My name is Femi Martins Areola
 #### Data Analyst and Numbers Geek.
-![Data Analyst and Numbers Geek.](AG Chat data_page-0001)
+![Data Analyst and Numbers Geek.](https://pbs.twimg.com/media/FYI57UMWQAIvyRc?format=jpg&name=large)
 
 I am a Data Analyst, with a special interest in Financial and People Analysis.  I am open for jobs, collaborations, and projects in the data analysis space. 
 You can reach out to me on ([Twitter](https://twitter.com/f_martinsareola)) and on ([LinkedIn](https://www.linkedin.com/in/femi-martins-areola/))
