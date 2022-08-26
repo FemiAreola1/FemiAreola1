@@ -1,15 +1,15 @@
-### Hi there 👋, My name is **Femi Martins Areola**
-#### Data Analyst and Numbers Geek
-![Data Analyst and Numbers Geek](https://media-exp2.licdn.com/dms/image/C4D22AQFXwYOLsGsdZw/feedshare-shrink_2048_1536/0/1653059531994?e=1660780800&v=beta&t=qNxPVx7lc1p8Fqxp3wGnsC-iacsG_EGGuyrCxecfNhQ)
+### Hi there 👋, Hi there, My name is Femi Martins Areola
+#### Data Analyst and Numbers Geek.
+![Data Analyst and Numbers Geek.](AG Chat data_page-0001)
 
 I am a Data Analyst, with a special interest in Financial and People Analysis.  I am open for jobs, collaborations, and projects in the data analysis space. 
 You can reach out to me on ([Twitter](https://twitter.com/f_martinsareola)) and on ([LinkedIn](https://www.linkedin.com/in/femi-martins-areola/))
 
-Skills: 
-🌟POWER BI 
-⚡ SQL 
-📟EXCEL 
-📳 HTML 
+Skills: 🌟POWER BI  ⚡ SQL  📟EXCEL  📳 HTML ⚡Python
+
+- 🔭 I’m currently working on this page. 
+
+
 
 - 🔭 I’m building my Portfolio 
 - 🌱 I’m learning Financial and People Analysis 
